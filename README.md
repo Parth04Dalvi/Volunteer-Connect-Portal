@@ -1,6 +1,9 @@
 Volunteer Connect Portal
 A single-page application built with Angular that connects volunteers with service opportunities, allows them to track their service hours, and enables organizations to post new opportunities. The portal features a Service Catalog, a personal dashboard for volunteers, and local data persistence.
 
+<img width="777" height="824" alt="image" src="https://github.com/user-attachments/assets/29bd0362-1c87-4154-8f9e-f806050234d5" />
+
+
 Features
 Service Catalog: A comprehensive list of available volunteer opportunities that can be filtered by keywords.
 
